@@ -4,6 +4,11 @@ Câu hỏi kỳ này:
 - Syntax cơ bản: Nhập xuất; Biến, toán tử; If-else; Vòng lặp; Arrays; Wrapper class, String classes, Math class.
 - Regex.
 - Class & Object: Encapsulation; Inheritance; Polymorphism; Common Modifiers; Modifier static; Interfaces; Abstract Classes.
+- 
+# TABLE OF CONTENTS
+1. [CÚ PHÁP CƠ BẢN](#i-cú-pháp-cơ-bản)
+2. [REGEX](#ii-regex)
+3. [CLASS & OBJECT (OOP)](#iii-class--object-oop)
 
 # I. CÚ PHÁP CƠ BẢN
 Một hàm main cơ bản, các thủ tục cơ bản, ta viết bên trong này.
